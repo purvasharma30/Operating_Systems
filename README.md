@@ -1,2 +1,9 @@
-# Operating_Systems
-Operating Systems - Notes + Previous Year Question Papers (pyq) - VIT VELLORE 
+# Operating Systems
+
+Notes 
+
+Previous Year Question Papers (pyq) 
+
+Assignments
+
+VIT VELLORE 
